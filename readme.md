@@ -2,6 +2,6 @@
 
 ## Requisitos
 
--Sass
--Bootstrap
--Node.js
+- Sass
+- Bootstrap
+- Node.js
